@@ -1,37 +1,37 @@
 body {
   background-color: "e8e8e8";
   color: black;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 h1 {
   color: black;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 h2 {
   color: black;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 p {
   color: black;
   background-color: lightgrey;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 footer {
   color: black;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 section {
   color: black;
   background-color: lightgrey;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
 
 header {
   color: black;
-    font-family: 'Roboto', cursive; Arial;
+    font-family: 'Roboto', cursive, Arial;
 }
