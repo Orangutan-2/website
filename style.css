@@ -6,7 +6,7 @@
   /* border: 1px solid red; */
   /* margin: 0; */
   /* line height: 1; */
-  box-sizing: content-box;
+  /* box-sizing: content-box; */
   }
 
 /* <ALL>
@@ -114,11 +114,19 @@ header, section, footer, p {
   padding: 30px;
 }
 
+.about {
+  background-color: red;
+  color: orange;
+  text-decoration: underline;
+}
+
+
 a:link
 a:focus,
 a:active {
   text-decoration: none;
   color: green;
+  font-size: 100%;
 }
 
 a:hover {
@@ -133,4 +141,8 @@ a:visited {
 a img {
   width: 40px;
   height: 40px;
+}
+
+.chimppic1 {
+  margin: 50px;
 }
